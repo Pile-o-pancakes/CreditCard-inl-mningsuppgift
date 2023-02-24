@@ -1,0 +1,21 @@
+.top {
+    text-align: center;
+}
+
+.cardStack {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 3rem repeat(20, 4rem)
+}
+
+.card {
+    grid-column: 4;
+}
+
+.selectedCard {
+    grid-column: 2;
+}
+
+.toAddCardButton {
+    position: absolute;
+}

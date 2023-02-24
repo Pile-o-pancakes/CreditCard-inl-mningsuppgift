@@ -1,0 +1,14 @@
+{
+    "cards": [{
+        "cardOwner": "Johnny Ståhl", "cardNumber": "1234 5678 9042 3675", "CCV": "123", "vendorName": "BITCOIN INC", "expireDate": "26/04", "vendorID": 1
+    },
+    {
+        "cardOwner": "Abraham Lincoln", "cardNumber": "8527 9159 4300 1239", "CCV": "456", "vendorName": "BLOCK CHAIN INC", "expireDate": "02/12", "vendorID": 2
+    },
+    {
+        "cardOwner": "Musse Pigg", "cardNumber": "1906 6406 2700 1059", "CCV": "789", "vendorName": "EVIL CORP", "expireDate": "15/07", "vendorID": 3
+    },
+    {
+        "cardOwner": "Dan Avidan", "cardNumber": "2391 5093 6900 4200", "CCV": "000", "vendorName": "NINJA BANK", "expireDate": "14/03", "vendorID": 4
+    }
+]}

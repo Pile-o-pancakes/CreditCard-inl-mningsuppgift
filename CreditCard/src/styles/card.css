@@ -1,0 +1,54 @@
+.card {
+    width: 35rem;
+    height: 20rem;
+
+    margin: 3rem;
+
+    border-style: solid;
+    border-color: black;
+
+    border-top-right-radius:  10px;
+    border-top-left-radius:  10px;
+    border-bottom-right-radius:  10px;
+    border-bottom-left-radius:  10px;
+}
+
+.selectedCard {
+    width: 35rem;
+    height: 20rem;
+
+    position: fixed;
+
+    margin: 3rem;
+
+    border-top-right-radius:  10px;
+    border-top-left-radius:  10px;
+    border-bottom-right-radius:  10px;
+    border-bottom-left-radius:  10px;
+}
+
+.bitcoin_inc {
+    background-color: #FFAE34;
+}
+
+.block_chain_inc {
+    background-color: #222222;
+}
+
+.ninja_bank {
+    background-color: #8B58F9;
+}
+
+.evil_corp {
+    background-color: #F33355;
+}
+
+.chipIcon {
+    margin: 1rem;
+}
+
+.vendorLogo {
+    margin: 1rem 2rem 0 auto;
+    top: 1rem;
+    right: 2rem;
+}
